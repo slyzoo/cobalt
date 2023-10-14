@@ -1,0 +1,8 @@
+<this is how to say hello world>
+
+print.terminal var.str("hello world")
+
+
+print.terminal
+
+var.str("")

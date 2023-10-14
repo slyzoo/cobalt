@@ -1,0 +1,13 @@
+comments = <insert comment>
+
+print = print.terminal()
+
+typecasting = type(variable -> variable)
+
+user input = input(variable())
+
+functions = function{}
+
+classes = class{}
+
+arguments = argument{}
